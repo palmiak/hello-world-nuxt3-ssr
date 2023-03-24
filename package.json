@@ -1,6 +1,9 @@
 {
   "name": "nuxtproject",
   "private": true,
+  "engines": {
+    "node": "18.x.x"
+  },
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
